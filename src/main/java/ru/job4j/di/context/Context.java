@@ -1,4 +1,4 @@
-package context;
+package ru.job4j.di.context;
 
 import java.lang.reflect.Constructor;
 import java.util.ArrayList;

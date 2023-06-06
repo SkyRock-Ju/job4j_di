@@ -1,4 +1,4 @@
-package model;
+package ru.job4j.di.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

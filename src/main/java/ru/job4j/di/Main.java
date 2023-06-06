@@ -1,6 +1,8 @@
-import context.Context;
-import repository.Store;
-import service.StartUI;
+package ru.job4j.di;
+
+import ru.job4j.di.context.Context;
+import ru.job4j.di.repository.Store;
+import ru.job4j.di.service.StartUI;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,7 +1,9 @@
-package service;
+package ru.job4j.di.service;
 
-import repository.Store;
+import org.springframework.stereotype.Component;
+import ru.job4j.di.repository.Store;
 
+@Component
 public class StartUI {
 
     private Store store;
